@@ -1,4 +1,4 @@
-# hktbfest-2021
+# hktbfest 2021
 
 1. create a basic html page
 2. add a framework of you choice
